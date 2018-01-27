@@ -1,0 +1,274 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;\f2\fswiss\fcharset0 Helvetica;
+}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid102\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid103\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li2160\lin2160 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid202\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid203\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li2160\lin2160 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid302\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid402\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid602\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid7}
+{\list\listtemplateid8\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid701\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid702\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid8}
+{\list\listtemplateid9\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid801\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid802\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid9}
+{\list\listtemplateid10\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid901\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid10}
+{\list\listtemplateid11\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1001\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid11}
+{\list\listtemplateid12\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid12}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}{\listoverride\listid11\listoverridecount0\ls11}{\listoverride\listid12\listoverridecount0\ls12}}
+\margl1440\margr1440\vieww15680\viewh13600\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs48 \cf0 Bash Command Cheatsheet\
+
+\fs36 \
+
+\f1\b $ pwd : Present Working Directory
+\f0\b0\fs28 \
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls1\ilvl0\cf0 {\listtext	\uc0\u8226 	}By default lists logical path of current directory\
+{\listtext	\uc0\u8226 	}-P flag will show actual physical path\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+\cf0 \
+
+\f1\b\fs36 $ ls : List Files and Directories
+\f0\b0\fs28 \
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls2\ilvl1\cf0 {\listtext	\uc0\u8259 	}Lists folders and files in current directory\
+{\listtext	\uc0\u8259 	}Can pass path to it without leaving current directory\
+\pard\tx1660\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li2160\fi-2160\sl264\slmult1\pardirnatural\partightenfactor0
+\ls2\ilvl2\cf0 {\listtext	\uc0\u8259 	}$ ls /usr/local shows files and directories in /usr/local without leaving current directory\
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls2\ilvl1\cf0 {\listtext	\uc0\u8259 	}Can string commands together: 
+\f1\b $ls -ahs
+\f0\b0  will list all files in human readable sizes that are sorted by size\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls2\ilvl0\cf0 {\listtext	\uc0\u8226 	}
+\f1\b -a : All Files
+\f0\b0  flag lists all files including hidden and \'93.\'94 dot prefixes\
+{\listtext	\uc0\u8226 	}
+\f1\b -l : Long Form Listing
+\f0\b0  gives more detailed information\
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls2\ilvl1
+\f2\fs36 \cf0 {\listtext	\uc0\u8259 	}
+\f0\fs28 Info displayed: file mode, number of links, owner name, group name, number of bytes in file, abbreviated month, day-of-month file was last modified, hour last modified, minute last modified, and pathname\
+{\listtext	\uc0\u8259 	}-> followed by another path means path is symlinked to another directory\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls2\ilvl0\cf0 {\listtext	\uc0\u8226 	}
+\f1\b -h : Human Readable Sizes
+\f0\b0  gives file size info in K, B, M, G, etc sizes.\
+{\listtext	\uc0\u8226 	}
+\f1\b -s : Sorting by Size
+\f0\b0 \
+{\listtext	\uc0\u8226 	}
+\f1\b -t : Sorting by Last Modified Time
+\f0\b0  \
+{\listtext	\uc0\u8226 	}
+\f1\b -r : Reverse Sort
+\f0\b0  reverses results of $ ls\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+\cf0 \
+
+\f1\b\fs36 $ ln : Links\
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls3\ilvl1
+\f0\b0\fs28 \cf0 {\listtext	\uc0\u8259 	}Allow us to create an association from one file or directory to another. \
+{\listtext	\uc0\u8259 	}Useful for maintaining a sane file system, multiple versions of files or directories, and not wanting to use disk space to store copies of those files\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls3\ilvl0\cf0 {\listtext	\uc0\u8226 	}
+\f1\b Hard Links 
+\f0\b0 default setting for $ ln. Creates identical copy of linked file on disk that gets updated automatically when source file gets updated. Mirrors source file.\
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls3\ilvl1\cf0 {\listtext	\uc0\u8259 	}Will only work on current file system, don\'92t work for directories\
+{\listtext	\uc0\u8259 	}If source file gets deleted, target file will continue to live as independent file\
+{\listtext	\uc0\u8259 	}Create by giving name of source file followed by name of linked file we want to create\
+\pard\tx1660\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li2160\fi-2160\sl264\slmult1\pardirnatural\partightenfactor0
+\ls3\ilvl2\cf0 {\listtext	\uc0\u8259 	}
+\f1\b $ ln source.txt target.txt
+\f0\b0 \
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls3\ilvl0\cf0 {\listtext	\uc0\u8226 	}
+\f1\b -f : Forcing a Link
+\f0\b0  If target file already exists flag will force link\
+{\listtext	\uc0\u8226 	}
+\f1\b -s : Symbolic Links 
+\f0\b0 can link to files or directories on other file systems. More powerful and common than default hard links.\
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls3\ilvl1\cf0 {\listtext	\uc0\u8259 	}Creates new, small file that points to target file or directory\
+{\listtext	\uc0\u8259 	}Denoted by 
+\f1\b ->
+\f0\b0  when using $ ln command\
+{\listtext	\uc0\u8259 	}
+\f1\b $ ln -s source.txt target.txt
+\f0\b0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+\cf0 \
+
+\f1\b\fs36 $ cd : Changing Directories\
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls4\ilvl1
+\f0\b0\fs28 \cf0 {\listtext	\uc0\u8259 	}navigate to the path you wish\
+{\listtext	\uc0\u8259 	}
+\f1\b $ cd
+\f0\b0  followed by nothing goes to the home directory\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls4\ilvl0\cf0 {\listtext	\uc0\u8226 	}.. : 
+\f1\b Navigates Up
+\f0\b0 , will cause it to navigate to parent directory of current directory; 
+\f1\b $ cd ..\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 \
+
+\f1\b\fs36 $ mkdir : Creating Directories\
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls5\ilvl1
+\f0\b0\fs28 \cf0 {\listtext	\uc0\u8259 	}Creates directory; 
+\f1\b $ mkdir directoryname
+\f0\b0 \
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls5\ilvl0
+\f1\b \cf0 {\listtext	\uc0\u8226 	}-p : Create Intermediate Directories
+\f0\b0  allows to create nested directories\
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls5\ilvl1
+\f1\b \cf0 {\listtext	\uc0\u8259 	}$ mkdir -p a/b/c 
+\f0\b0 creates directory c in directory b in directory a\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls5\ilvl0
+\f1\b \cf0 {\listtext	\uc0\u8226 	}-v : Verbose Output
+\f0\b0  flag prints results of mkdir to the console\
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls5\ilvl1
+\f1\b \cf0 {\listtext	\uc0\u8259 	}
+\f0\b0 useful reporting when writing scripts that execute many commands\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+\cf0 \
+
+\f1\b\fs36 $ touch : Create a File
+\f0\b0\fs28  $ touch test.txt\
+\
+
+\f1\b\fs36 $ cat : View a File from the Command Line
+\f0\b0\fs28  \
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls6\ilvl0\cf0 {\listtext	\uc0\u8226 	}$ cad test.txt outputs text in file\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+
+\f1\b \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+
+\fs36 \cf0 $ cp : Copying Multiple Files
+\f0\b0\fs28 \
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls7\ilvl1\cf0 {\listtext	\uc0\u8259 	}Allows listing several items to copy; last item must be a directory.\
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls7\ilvl1
+\f1\b \cf0 {\listtext	\uc0\u8259 	}
+\f0\b0 Original file names will be used as names of new files in target directory\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls7\ilvl0
+\f1\b \cf0 {\listtext	\uc0\u8226 	}-v : Verbose Output
+\f0\b0  flag supported\
+\ls7\ilvl0
+\f1\b {\listtext	\uc0\u8226 	}-R : Copying Directories
+\f0\b0  by default 
+\f1\b cp
+\f0\b0  expects source to be a file, get error unless using 
+\f1\b -R
+\f0\b0 \
+\ls7\ilvl0
+\f1\b {\listtext	\uc0\u8226 	}-f : Force Overwriting of a File
+\f0\b0  will force copying of source file to target file if we don\'92t have permission to do that\
+\ls7\ilvl0
+\f1\b {\listtext	\uc0\u8226 	}-i : Confirm Overwriting of a File
+\f0\b0  will prompt to confirm overwrite\
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls7\ilvl1
+\f1\b \cf0 {\listtext	\uc0\u8259 	}
+\f0\b0 Useful if copying several files at once and if some target files already exist\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+
+\f1\b \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+
+\fs36 \cf0 $ rm : Deleting Files
+\f0\b0\fs28 \
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls8\ilvl1\cf0 {\listtext	\uc0\u8259 	}Used to delete files and folders; supports the same flags and arguments as 
+\f1\b cp\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+
+\f0\b0 \cf0 \
+
+\f1\b\fs36 $ mv : Moving Files
+\f0\b0\fs28 \
+\pard\tx940\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li1440\fi-1440\sl264\slmult1\pardirnatural\partightenfactor0
+\ls9\ilvl1\cf0 {\listtext	\uc0\u8259 	}Used to move a file from one location to another; supports the same flags as 
+\f1\b cp
+\f0\b0  and 
+\f1\b rm\
+\ls9\ilvl1
+\f0\b0 {\listtext	\uc0\u8259 	}a combination of 
+\f1\b cp
+\f0\b0  and 
+\f1\b rm
+\f0\b0  to achieve desired outcome\
+{\listtext	\uc0\u8259 	}doesn\'92t support moving a file across file systems\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+\cf0 \
+
+\f1\b\fs36 $ man : Manual for command
+\f0\b0\fs28 , $ man ls will show information/flag usage for ls\
+\
+
+\f1\b\fs36 $ open : Open
+\f0\b0\fs28  file or directory\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls10\ilvl0
+\f1\b \cf0 {\listtext	\uc0\u8226 	}-a : Application
+\f0\b0  designation flag\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+
+\f1\b\fs36 \cf0 \
+$ clear : Clear
+\f0\b0\fs28  terminal screen\
+\
+
+\f1\b\fs36 $ sudo : Super User Command
+\f0\b0  
+\fs28 to run prior to any other command for admin rights\
+\
+
+\f1\b\fs36 Input/Output (|, >)
+\f0\b0\fs28 \
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls11\ilvl0\cf0 {\listtext	\uc0\u8226 	}
+\f1\b Redirecting Output (|), \'93pipe\'94 operator
+\f0\b0  allows you to chain commands (not flags) together\
+{\listtext	\uc0\u8226 	}
+\f1\b Writing to a File (>)
+\f0\b0  allows writing outputs to a file\
+{\listtext	\uc0\u8226 	}
+\f1\b Reading from a File (<)
+\f0\b0  \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+\cf0 \
+
+\f1\b\fs36 Command Mode (ESC Key)
+\f0\b0\fs28  enters command mode\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls12\ilvl0\cf0 {\listtext	\uc0\u8226 	}:q to quit\
+{\listtext	\uc0\u8226 	}:q! To quit without saving\
+{\listtext	\uc0\u8226 	}:wq to write and quit\
+{\listtext	\uc0\u8226 	}:x to write and quit\
+{\listtext	\uc0\u8226 	}:qa to quit all\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course"}}{\fldrslt \cf0 A Command Line Crash Course}}\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\sl264\slmult1\pardirnatural\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://conqueringthecommandline.com/book/basics"}}{\fldrslt \cf0 chapter 1 of conquering the command line}}\
+}
